@@ -24,7 +24,7 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Looks Great!",
+    "text": "Looks Awesome!",
     "isDisabled": false,
     "key": "enmxsm5afm",
     "isDeprecated": false,
@@ -40,11 +40,11 @@
     "isLoading": false,
     "mobileTopRow": 12,
     "responsiveBehavior": "hug",
-    "originalTopRow": 13,
+    "originalTopRow": 15,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
-    "originalBottomRow": 17,
+    "originalBottomRow": 19,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }
