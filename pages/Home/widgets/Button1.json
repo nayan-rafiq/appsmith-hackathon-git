@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 16,
     "widgetName": "Button1",
-    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "buttonColor": "#0000FF",
     "displayName": "Button",
     "iconSVG": "https://release-appcdn.appsmith.com/static/media/icon.7beb9123fb53027d9d6b778cdfe4caed.svg",
     "searchTags": [
@@ -20,10 +20,7 @@
     "parentColumnSpace": 12.65625,
     "dynamicTriggerPathList": [],
     "leftColumn": 23,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [],
     "text": "Looks Fantastic!",
     "isDisabled": false,
     "key": "enmxsm5afm",
@@ -42,7 +39,7 @@
     "responsiveBehavior": "hug",
     "originalTopRow": 15,
     "disabledWhenInvalid": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "4px",
     "mobileLeftColumn": 0,
     "originalBottomRow": 19,
     "buttonVariant": "PRIMARY",
